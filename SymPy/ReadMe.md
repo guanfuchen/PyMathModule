@@ -24,3 +24,5 @@ sigmoid_derive.evalf(subs={x:0})
 [Basic Operations](http://docs.sympy.org/latest/tutorial/basic_operations.html)
 
 [SymPy教程](http://www.asmeurer.com/sympy_doc/dev-py3k/tutorial/tutorial.zh.html)
+
+[泰勒级数](https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%8B%92%E7%BA%A7%E6%95%B0)
