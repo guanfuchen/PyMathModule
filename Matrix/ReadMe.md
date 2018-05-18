@@ -75,5 +75,22 @@ $$\frac{\partial{tr(A B A^T C)}}{\partial{A}}=\frac{\partial{tr(A^T C A B)}}{\pa
 
 [矩阵微分笔记](http://cherishlc.iteye.com/blog/1765932) 作者通过学习张贤达,矩阵分析与应用,清华大学出版社,2004总结了矩阵的微分。
 
+
+---
+## 共轭转置
+
+矩阵$A$的共轭转置（hermitian conjugate transpose）$A^H$定义为：
+$$(A^H)_{i,j}=\bar{A}_{j,i}$$
+其中$\bar{(\cdot)}$表示标量的复共轭，共轭转置的定义就是对一个矩阵转置后进行共轭操作，或者先进行共轭操作然后进行转置。
+$$A^H=\overline{A^T}=(\overline{A})^T$$
+
+例子：
+$$A=\left[\begin{matrix}3+i & 5\\ 5 & -i\end{matrix}\right]$$
+$$A^H=\left[\begin{matrix}3-i & 2+2i\\ 5 & -i\end{matrix}\right]$$
+
+[共轭转置](https://zh.wikipedia.org/wiki/%E5%85%B1%E8%BD%AD%E8%BD%AC%E7%BD%AE)
+
+[numpy.matrix.H](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.matrix.H.html) np中获取共轭转置矩阵。
+
 ---
 ## 参考资料
