@@ -17,6 +17,9 @@
 
 ## SymPy
 
+## Sklearn
+增加Sklearn模块。
+
 ## Native
 增加Python原生库的使用说明，目前包括Cython等。
 
