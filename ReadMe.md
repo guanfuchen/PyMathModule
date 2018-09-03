@@ -45,6 +45,10 @@
 
 [线性代数之伪逆矩阵(pseudoinverse matrix)](https://www.qiujiawei.com/linear-algebra-16/)
 
+[numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) fastai中相关的线性代数知识。
+
+[New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) fastai相关的计算网页。
+
 ---
 # 概率论相关知识
 
