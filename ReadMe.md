@@ -1,6 +1,6 @@
 # PyMathModule
 
-记录常用的Python库使用模块，包括NumPy、SciPy、Matplotlib、SymPy等等。
+记录常用的Python库使用模块，包括NumPy、SciPy、Matplotlib、SymPy、Bash、Gradle等等。
 
 ---
 # 常用模块
@@ -27,6 +27,12 @@
 
 ## Julia
 增加Julia语言学习线性代数。
+
+## Bash
+增加Bash基本知识。
+
+## Gradle
+增加Gradle基本知识。
 
 ---
 # 矩阵线性代数相关知识
